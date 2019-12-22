@@ -1,6 +1,6 @@
-package com.ucup;
+package com.masfai;
 
-public class Main{
+public class masfai {
 
 	public static void main(String[] args){
 		System.out.println("hello world");
